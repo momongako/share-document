@@ -1,0 +1,40 @@
+body {
+    background-color: #ffffff !important;
+}
+.user-info{
+    float: right;
+}
+.category-name{
+    margin-left: 15px;
+
+}
+.nav-item .glyphicon-folder-open , .category-name ,.list-category a{
+    color: #333333;
+}
+.show-list-category{
+    margin-left: 20px;
+    width: 70px;
+    height: 30px;
+}
+.list-category{
+    margin-left: 20px;
+}
+.btn-show-category{
+    color: #333333;
+    font-size: 16px;
+}
+.detail-title{
+    margin-bottom: 30px;
+    width: 67%;
+}
+.detail-category-button{
+    float: right;
+}
+.detail-category-title{
+    color:#337ab7;
+    font-size: 18px;
+ }
+.detail-category-title :hover{
+    text-decoration: none;
+    color:#333333;
+}
